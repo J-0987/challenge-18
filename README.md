@@ -16,7 +16,6 @@ Social Networking Building Blocks is a backend application powered by MongoDB, E
 - [Demo / Screenshots](#demo--screenshots)
 - [Technologies](#technologies)
 - [License](#license)
-- [Tests](#tests)
 - [Contribution](#how-to-contribute)
 - [Contact / Questions](#contact--questions)
 
@@ -32,9 +31,9 @@ To install this app, do the following:
 
 
 ## Demo / Screenshots
-Demo Video URL: <a href=">Demo Link</a>
+Demo Video URL: <a href="https://drive.google.com/file/d/1Z4e9dhYvInbeLYUx_vyDOpLtg-6sNYn7/view?usp=sharing">Demo Link</a>
 
-![Screenshot-allUsers-mongodb]()
+![alt text](image.png)
 
 ## Technologies
 JavaScript, Node.js, Express.js, MongoDB, Mongoose, Nodemon
@@ -46,8 +45,7 @@ JavaScript, Node.js, Express.js, MongoDB, Mongoose, Nodemon
 
 This project is licensed under the MIT license. For more information about this license and what it entails, visit the MIT website <a href="https://opensource.org/licenses/MIT">here</a>.
 
-## Tests
-Endpoints were tested with Insomnia. If you should find any issues, see below on contibuting guidlines or submit an issue with a detailed explanation on how to recreate the bug.
+
 
 
 
