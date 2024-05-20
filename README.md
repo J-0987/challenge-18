@@ -1,14 +1,18 @@
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# <Mongo Social Network API>
+# Social Networking Building Blocks
 
 ## Description
-This is a social network backend that utilizes MongoDB, Mongoose ORM and Express.js to CRUD and define relationships between collections stored in the mongodb and then served by a Express.js server.
+Social Networking Building Blocks is a backend application powered by MongoDB, Express.js and Node.js. It features basic functionalities including:
+- adding a user
+- posting a thought
+- deleting and jupdating a thought
+- posting a reaction to a thought
+- deleting and updating reactions
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Demo / Screenshots](#demo--screenshots)
 - [Technologies](#technologies)
 - [License](#license)
@@ -17,12 +21,15 @@ This is a social network backend that utilizes MongoDB, Mongoose ORM and Express
 - [Contact / Questions](#contact--questions)
 
 ## Installation
-To install this app, simply fork the repo, and clone down to your local machine. Then in the CLI at relative dir run 'npm i' to get all dependancies required for sucessful run of the package. Download MongoDB and MongoDB-Compass, which will display data in this application.
+To install this app, do the following:
+- Clone the repo to your local machine. 
+- Install dependancies by running the following command in your terminal
+`npm install`
+- Run the application by typing the following command in your terminal
+`npm start`
 
-## Usage (Instructions/How-To Use)
-To use the package run 'npm start' which will sync the database and start the server. First ensure that you have ran an npm i to intall all necessary packages.
+- Ensure you have MongoDB and Compass installed
 
-Nodemon is a dependency included in this application, so 'npm run dev' will also work with additional details whilst the app is running.
 
 ## Demo / Screenshots
 Demo Video URL: <a href=">Demo Link</a>
